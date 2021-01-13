@@ -1,0 +1,23 @@
+.main {
+  margin: 20px;
+  padding: 5px;
+  display: inline-block;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px; }
+  .main form {
+    padding: 5px; }
+    .main form .form-control {
+      height: 50px; }
+  .main table td .btn {
+    background: #eaeef1;
+    color: #000 !important;
+    border-radius: 3px;
+    border: 1px solid #e5e5e5;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    cursor: pointer; }
+  .main table td .btn:hover {
+    background: #1da1f3;
+    border: 1px solid #1da1f3;
+    color: #fff; }
